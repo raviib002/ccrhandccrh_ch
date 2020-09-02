@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"ccrhtest_case.ccrh_habits_master"},{"v":2,"key":{"created_by_id":1},"name":"ccrh_habits_master_created_by_id_9defc4bc","ns":"ccrhtest_case.ccrh_habits_master"},{"v":2,"key":{"updated_by_id":1},"name":"ccrh_habits_master_updated_by_id_8b49e234","ns":"ccrhtest_case.ccrh_habits_master"}]}

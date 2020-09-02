@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"ccrhtest_case.ccrh_case_history"},{"v":2,"key":{"case_reviewer_id":1},"name":"ccrh_case_history_case_reviewer_id_b911e1f6","ns":"ccrhtest_case.ccrh_case_history"},{"v":2,"key":{"case_supervisor_id":1},"name":"ccrh_case_history_case_supervisor_id_bf9bf919","ns":"ccrhtest_case.ccrh_case_history"}]}

@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"ccrhtest_case.ccrh_medicine_master"},{"v":2,"key":{"created_by_id":1},"name":"ccrh_medicine_master_created_by_id_6a80412f","ns":"ccrhtest_case.ccrh_medicine_master"},{"v":2,"key":{"updated_by_id":1},"name":"ccrh_medicine_master_updated_by_id_251b7816","ns":"ccrhtest_case.ccrh_medicine_master"}]}

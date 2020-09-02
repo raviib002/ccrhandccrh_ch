@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"ccrhtest_case.ccrh_case_past_hist"},{"v":2,"key":{"case_id":1},"name":"ccrh_case_past_hist_case_id_ff672580","ns":"ccrhtest_case.ccrh_case_past_hist"}]}

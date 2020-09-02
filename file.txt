@@ -1,0 +1,26 @@
+
+mariadb details:
+db name=ccrhtest
+mysql username=ccrhtest
+mysqluser password=ccrhtest
+
+
+mongodb deatils:
+db name=ccrhtest_case
+mongo username=ccrhtest_case
+mongo password=ccrhtest_case
+
+application login user details:
+test111
+test111@gmail.com
+Test@111
+test222
+test222@gmail.com
+Test@222
+test333
+test333@gmail.com
+Test@333
+
+createsuperusers is as above
+these zip files contains Build and DB of ccrh and ccrh_case
+
